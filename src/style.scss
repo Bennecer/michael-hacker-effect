@@ -18,7 +18,7 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  min-height: 100vh;
+  max-height: 100vh;
 }
 
 #app {
@@ -31,7 +31,7 @@ body {
 }
 
 #michael {
-  width: 40rem;
+  width: 35%;
 }
 
 @media (prefers-color-scheme: light) {
