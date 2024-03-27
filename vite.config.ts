@@ -1,3 +1,3 @@
 export default {
-  base: /codelab-virage-hacker-effect/,
+  base: /michael-hacker-effect/,
 };
